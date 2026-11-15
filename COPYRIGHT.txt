@@ -1,0 +1,2 @@
+Copyright (c) Protec Services LLC. All rights reserved.
+This app is for Protec Services employees. Copying or reuse without written permission is not allowed.
